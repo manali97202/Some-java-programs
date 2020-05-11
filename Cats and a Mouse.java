@@ -55,12 +55,10 @@ public class Solution {
     }
 }
 
-Input 0
-
-2
+Input 2
 1 2 3
 1 3 2
-Output 0
-
+    
+Output 
 Cat B
 Mouse C
